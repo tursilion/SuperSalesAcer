@@ -1,5 +1,8 @@
 19991208
 
+Play online at archive.org - 
+https://archive.org/details/msdos_SuperSalesAcer_shareware
+
 Modified again Dec 8 99 to correct speed on even faster PCs. A slight
 bug in my last fix prevented it from working... now it should be good
 forever.
