@@ -2,10 +2,11 @@
 
 Modified again Dec 8 99 to correct speed on even faster PCs. A slight
 bug in my last fix prevented it from working... now it should be good
-forever.\
-------\
-Modified Jan 1, 97 to correct speed problem on fast PCs.\
-------
+forever.
+
+Modified Jan 1, 97 to correct speed problem on fast PCs.
+
+---
 
 Welcome to the world of Door-to-Door sales!
 
@@ -60,29 +61,24 @@ You'll get some information, too.
 
 Keys:
 
-       E = up\
-S = left     D = right\
-       X = down\
+         E = up
+  S = left     D = right
+         X = down
 
-   SPACE = jump
+       SPACE = jump
 
-Press a movement key ONCE to move - DO NOT hold it down!!
-Press the same key AGAIN to stop.
+Press a movement key ONCE to move - DO NOT hold it down!! Press the same key AGAIN to stop.
 
 If you don't like these keys, write me and complain. :)
 
----\
-Known Bugs\
+Known Bugs
 ---
 
-- Sometimes pops up on top of platforms you didn't think you could jump up to
--- That's not a bug, that's a feature!! :)
+- Sometimes pops up on top of platforms you didn't think you could jump up to. -- That's not a bug, that's a feature!! :)
 
-- Graphics sometimes garble when two moving objects overlap (or come close)
--- Yeah. That sucks.
+- Graphics sometimes garble when two moving objects overlap (or come close). -- Yeah. That sucks.
 
 ---
-
 
                          
 This game is copyright 1995 by M.Brent, all rights reserved, like it says
