@@ -61,13 +61,13 @@ You'll get some information, too.
 
 Keys:
 
-'''
+```
          E = up
   S = left     D = right
          X = down
 
        SPACE = jump
-'''
+```
 
 Press a movement key ONCE to move - DO NOT hold it down!! Press the same key AGAIN to stop.
 
